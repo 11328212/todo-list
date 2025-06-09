@@ -9,4 +9,4 @@
 ```bash
 gcc main.c -o todo
 chcp 65001   # ⚠️ 如果你在 Windows 上看到亂碼，請先執行這行
-./todo
+todo
